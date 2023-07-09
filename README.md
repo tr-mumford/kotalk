@@ -1,4 +1,3 @@
 # kotalk
 
-Little chat application in Python
-Talking over local network first.
+Little chat application in Python talking over local networks first.
