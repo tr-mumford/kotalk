@@ -1,1 +1,4 @@
-print("test")
+import classTest
+
+HelloObject = classTest.HelloClass()
+HelloObject.cprint()
