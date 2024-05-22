@@ -1,0 +1,14 @@
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\bin\Debug\net8.0\UI.exe
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\bin\Debug\net8.0\UI.deps.json
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\bin\Debug\net8.0\UI.runtimeconfig.json
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\bin\Debug\net8.0\UI.dll
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\bin\Debug\net8.0\UI.pdb
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\obj\Debug\net8.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\obj\Debug\net8.0\UI.AssemblyInfoInputs.cache
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\obj\Debug\net8.0\UI.AssemblyInfo.cs
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\obj\Debug\net8.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\obj\Debug\net8.0\UI.dll
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\obj\Debug\net8.0\refint\UI.dll
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\obj\Debug\net8.0\UI.pdb
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\obj\Debug\net8.0\UI.genruntimeconfig.cache
+C:\Users\tyler.mumford\Documents\Repos\kotalk\kotalk\UI\obj\Debug\net8.0\ref\UI.dll
